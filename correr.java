@@ -1,8 +1,10 @@
 class correr{
 
-        String trotar, correr;
+        private int trotar, correr;
     
         public String tipo(){
-            return "El tipo esta corriendo";
+            return "Usted va a Correr";
         }
+
+        
 }
